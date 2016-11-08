@@ -11,16 +11,16 @@ Solution Integrator Experienced - Certified by Ericsson
 
 This is to grasp rapidly the language and its concepts.
 
-[C++ Tutorial](https://www.tutorialspoint.com/erlang/index.htm)
+[Erlang Tutorial](https://www.tutorialspoint.com/erlang/index.htm)
 
 #### Topics
 ```
 Erlang Tutorial
-[ ] Home
-[ ] Overview
-[ ] Environment
-[ ] Basic Syntax
-[ ] Shell
+[x] Home
+[x] Overview
+[x] Environment
+[x] Basic Syntax
+[x] Shell
 [ ] Data Types
 [ ] Variables
 [ ] Operators
