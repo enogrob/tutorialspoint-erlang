@@ -21,9 +21,9 @@ Erlang Tutorial
 [x] Environment
 [x] Basic Syntax
 [x] Shell
-[ ] Data Types
-[ ] Variables
-[ ] Operators
+[x] Data Types
+[x] Variables
+[x] Operators
 [ ] Loops
 [ ] Decision Making
 [ ] Functions
