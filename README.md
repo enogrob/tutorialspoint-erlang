@@ -24,8 +24,8 @@ Erlang Tutorial
 [x] Data Types
 [x] Variables
 [x] Operators
-[ ] Loops
-[ ] Decision Making
+[x] Loops
+[x] Decision Making
 [ ] Functions
 [ ] Modules
 [ ] Recursion
