@@ -14,6 +14,7 @@ This is to grasp rapidly the language and its concepts.
 [Erlang Tutorial](https://www.tutorialspoint.com/erlang/index.htm)
 
 #### Topics
+
 ```
 Erlang Tutorial
 [x] Home
@@ -26,8 +27,8 @@ Erlang Tutorial
 [x] Operators
 [x] Loops
 [x] Decision Making
-[ ] Functions
-[ ] Modules
+[x] Functions
+[x] Modules
 [ ] Recursion
 [ ] Numbers
 [ ] Strings
