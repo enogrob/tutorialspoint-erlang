@@ -29,8 +29,8 @@ Erlang Tutorial
 [x] Decision Making
 [x] Functions
 [x] Modules
-[ ] Recursion
-[ ] Numbers
+[x] Recursion
+[x] Numbers
 [ ] Strings
 [ ] Lists
 [ ] File I/O
