@@ -31,7 +31,7 @@ Erlang Tutorial
 [x] Modules
 [x] Recursion
 [x] Numbers
-[ ] Strings
+[x] Strings
 [ ] Lists
 [ ] File I/O
 [ ] Atoms
