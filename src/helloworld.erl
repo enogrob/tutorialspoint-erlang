@@ -1,16 +1,8 @@
-%%%-------------------------------------------------------------------
-%%% @author enogrob
-%%% @copyright (C) 2016, <COMPANY>
-%%% @doc
-%%%
-%%% @end
-%%% Created : 07. Nov 2016 23:51
-%%%-------------------------------------------------------------------
--module(helloworld).
--author("enogrob").
+-module(helloworld). 
+-import(lists,[duplicate/2]). 
+-export([start/0]). 
 
-%% API
--export([start/0]).
-
-start() ->
-  io:fwrite("Hello, world!\n").
+start() -> 
+   Lst1 = [1,2,3], 
+   Lst2 = duplicate(2,Lst1), 
+   io:fwrite("~w~n",[Lst2]).

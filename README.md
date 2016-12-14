@@ -32,7 +32,7 @@ Erlang Tutorial
 [x] Recursion
 [x] Numbers
 [x] Strings
-[~] Lists
+[x] Lists
 [ ] File I/O
 [ ] Atoms
 [ ] Maps
