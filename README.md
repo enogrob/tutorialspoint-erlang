@@ -33,7 +33,7 @@ Erlang Tutorial
 [x] Numbers
 [x] Strings
 [x] Lists
-[ ] File I/O
+[x] File I/O
 [ ] Atoms
 [ ] Maps
 [ ] Tuples
