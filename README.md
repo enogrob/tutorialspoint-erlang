@@ -34,7 +34,7 @@ Erlang Tutorial
 [x] Strings
 [x] Lists
 [x] File I/O
-[ ] Atoms
+[x] Atoms
 [ ] Maps
 [ ] Tuples
 [ ] Records
@@ -69,4 +69,3 @@ Selected Reading
 [ ] Computer Glossary
 [ ] Who is Who
 ```
-
